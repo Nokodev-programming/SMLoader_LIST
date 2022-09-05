@@ -8,7 +8,7 @@ Your pull request needs to look like this:
 ```
 MOD ID: <Insert your mod id showned in the workshop folder)
 MOD Name: <Insert your mod's title
-
+MOD Reason: <Insert the reason why you want it to be added>
 MOD Description:
 <Insert your mod description. This gives NokoDev some understanding of what it can be used for. We don't want to add mods that are worthless or stupid>
 
@@ -17,3 +17,6 @@ MOD Description:
 Mod Link: <Insert the mod link from steam. (Add "steam://openurl/" to the beggining making a link that opens steam app. This makes it bit faster for NokoDev to test before finishing it up>
 Mod Developers: <Insert the developers that made your mod. The higher, The better chances)
 ```
+If you made a pull request wait untill NokoDev notices it. if he notices it that means hes going to verify your mod. If success your mod will be in the text file. Else you will get a response (in Github) like this: "Your mod failed to be verified. Because <REASON HERE>.".
+
+For now it dose nothing but says its populair. (If you set the reason for adding a Mod to it). When released the mods that are populair are set to the highest including the SMLoader Verified Mods.
