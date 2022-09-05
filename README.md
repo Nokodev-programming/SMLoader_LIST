@@ -1,4 +1,4 @@
-# SMLoader_LIST
+# SMLoader Database
 
 This is a database for the SMLoader Project. Because it won't be great if you have to each time redownload this (When it gets released).
 
