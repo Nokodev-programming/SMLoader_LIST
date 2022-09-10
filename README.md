@@ -17,4 +17,4 @@ MOD Description:
 Mod Link: <Insert the mod link from steam. (Add "steam://openurl/" to the beggining making a link that opens steam app. This makes it bit faster for NokoDev to test before finishing it up>
 Mod Developers: <Insert the developers that made your mod. The higher, The better chances)
 ```
-If you made a Issue wait untill NokoDev notices it. if he notices it that means hes going to verify your mod. If success your mod will be in the text file. Else you will get a response (in Github) like this: "Your mod failed to be verified. Because <REASON HERE>.".
+If you made a Issue wait untill NokoDev notices it. if he notices it that means hes going to verify your mod. If success your mod will be in the text file. Else you will get a response (in Github) like this: "Your mod failed to be verified. Because [REASON HERE].".
