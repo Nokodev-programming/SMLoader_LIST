@@ -26,4 +26,5 @@ Denied: The mod is denied for a spefic reason
 Accepted: The mod is accepted.
 Other: For other reasons to make post a issue
 DMCA: Please use this if your mod got duplicated and got posted to the steam workshop and SMLoader database. (This is possible but NokoDev dosen't know if this will work. else this gets applied to only to spefic mods that are populair and verified.
+Verifing: This means NokoDev is verifing your Mod.
 ```
